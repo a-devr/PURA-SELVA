@@ -57,11 +57,11 @@ const M = {
     s: "Jugos de frutas amazónicas",
     p: [
       ["1/5 Lit. cocona", 10, "Jugo de cocona", "images/bebidas/cocona-1-5.jpg"],
-      ["1 Lit. cocona", 15, "Jugo de cocona", "images/bebidas/cocona-1-litro.jpg"],
+      ["1 Lit. cocona", 20, "Jugo de cocona", "images/bebidas/cocona-1-litro.jpg"],
       ["1/5 Lit. Camú Camú", 10, "Jugo de Camú Camú", "images/bebidas/camu-camu-1-5.jpg"],
-      ["1 Lit. Camú Camú", 15, "Jugo de Camú Camú", "images/bebidas/camu-camu-1-litro.jpg"],
+      ["1 Lit. Camú Camú",20, "Jugo de Camú Camú", "images/bebidas/camu-camu-1-litro.jpg"],
       ["1/5 Lit. Aguajina", 10, "Refresco de aguaje", "images/bebidas/aguajina-1-5.jpg"],
-      ["1 Lit. Aguajina", 15, "Refresco de aguaje", "images/bebidas/aguajina-1-litro.jpg"]
+      ["1 Lit. Aguajina", 20, "Refresco de aguaje", "images/bebidas/aguajina-1-litro.jpg"]
     ]
   },
 
