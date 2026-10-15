@@ -31,11 +31,11 @@ const M = {
       ["Tacacho con cecina", 25, "Chorizo, salsa de cocona", "images/fondos/tacacho-con-cecina.jpg"],
       ["Chaufa Amazónico", 25, "Cecina, chorizo en trozos, maduro frito", "images/fondos/chaufa-amazonico.jpg"],
       ["Cecina con Patacones", 25, "Chorizo, salsa de cocona", "images/fondos/cecina-con-patacones.jpg"],
-      ["Maparate frito", 35, "Maduro frito o patacones, arroz blanco, salsa de cocona", "images/fondos/maparate-frito.jpg"],
-      ["Doncella frito", 40, "Maduro frito o patacones, arroz blanco, salsa de cocona", "images/fondos/doncella-frito.jpg"],
-      ["Paiche frito", 40, "Maduro frito o patacones, arroz blanco, salsa de cocona", "images/fondos/paiche-frito.jpg"],
-      ["Palometa frita", 35, "Maduro frito o patacones, arroz blanco, salsa de cocona", "images/fondos/palometa-frita.jpg"],
-      ["Sábalo frito", 70, "Maduro frito o patacones, arroz blanco, salsa de cocona", "images/fondos/sabalo-frito.jpg"]
+      ["Maparate frito", 35, "Maduro frito o patacones, salsa de cocona", "images/fondos/maparate-frito.jpg"],
+      ["Doncella frito", 40, "Maduro frito o patacones, salsa de cocona", "images/fondos/doncella-frito.jpg"],
+      ["Paiche frito", 40, "Maduro frito o patacones, salsa de cocona", "images/fondos/paiche-frito.jpg"],
+      ["Palometa frita", 35, "Maduro frito o patacones, salsa de cocona", "images/fondos/palometa-frita.jpg"],
+      ["Sábalo frito", 70, "Maduro frito o patacones, salsa de cocona", "images/fondos/sabalo-frito.jpg"]
     ]
   },
 
@@ -44,10 +44,10 @@ const M = {
     s: "Combos para compartir y disfrutar",
     p: [
       ["Combo Mediano de Juane", 45, "1 juane · 1 cecina frita · 1 chorizo frito · Maduro frito · Salsa de cocona", "images/combos/combo-mediano-juane.jpg"],
-      ["Combo Mediano Chaufa", 60, "2 tacachos · 1 cecina frita · 1 chorizo frito · Arroz blanco · Maduro frito · Salsa de cocona", "images/combos/combo-mediano-chaufa.jpg"],
+      ["Combo Mediano Chaufa", 60, "2 tacachos · 1 cecina frita · 1 chorizo frito · Maduro frito · Salsa de cocona", "images/combos/combo-mediano-chaufa.jpg"],
       ["Combo de Chaufa mixto", 50, "Arroz chaufa mixta · 1 cecina frita · 1 chorizo frito · Maduro frito o Patacones · Salsa de cocona", "images/combos/combo-chaufa-mixto.jpg"],
       ["Combo de Juane Grande", 70, "1 tacacho · 2 cecinas fritas · 2 chorizos fritos · 1 juanes · Maduro frito · Salsa de cocona", "images/combos/combo-juane-grande.jpg"],
-      ["Combo de chaufa Grande", 80, "2 cecinas fritas · 2 chorizos fritos · 2 tacachos · Maduro frito · 1 vaso refresco de cocona o Camú Camú · Salsa de cocona", "images/combos/combo-chaufa-grande.jpg"],
+      ["Combo de chaufa Grande", 80, "2 cecinas fritas · 2 chorizos fritos · 2 tacachos · Maduro frito · Salsa de cocona", "images/combos/combo-chaufa-grande.jpg"],
       ["Combo Grande de tacacho", 85, "3 tacacho · 2 cecinas fritas · 2 chorizos fritos · Patacones · Maduro frito · Cecina y chorizo picado · Salsa de cocona", "images/combos/combo-grande-tacacho.jpg"]
     ]
   },
