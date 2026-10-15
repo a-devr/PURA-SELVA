@@ -30,7 +30,7 @@ const M = {
       ["Juane de Gallina", 20, "Patacones o maduro frito, salsa de cocona", "images/fondos/juane-de-gallina.jpg"],
       ["Tacacho con cecina", 25, "Chorizo, salsa de cocona", "images/fondos/tacacho-con-cecina.jpg"],
       ["Chaufa Amazónico", 25, "Cecina, chorizo en trozos, maduro frito", "images/fondos/chaufa-amazonico.jpg"],
-      ["Cecina con Patacones", 25, "Chorizo, salsa de cocona", "images/fondos/cecina-con-patacones.jpg"],
+      ["Cecina con Patacones", 25, "Chorizo, salsa de cocona", "images/fondos/cecina-con-patacones.png"],
       ["Maparate frito", 35, "Maduro frito o patacones, salsa de cocona", "images/fondos/maparate-frito.jpg"],
       ["Doncella frito", 40, "Maduro frito o patacones, salsa de cocona", "images/fondos/doncella-frito.jpg"],
       ["Paiche frito", 40, "Maduro frito o patacones, salsa de cocona", "images/fondos/paiche-frito.jpg"],
