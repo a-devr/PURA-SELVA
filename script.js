@@ -15,7 +15,7 @@ const M = {
     p: [
       ["Chilcano de Carachama", 45, "Plátano sancochado y ají charapita", "images/sopas/chilcano-carachama.jpg"],
       ["Chilcano de Palometa", 35, "Plátano sancochado y ají charapita", "images/sopas/chilcano-palometa.jpg"],
-      ["Chilcano de doncella", 35, "plátano sancochado, ají charapita", "images/sopas/chilcano-doncella.jpg"],
+      ["Chilcano de doncella", 35, "Plátano sancochado, ají charapita", "images/sopas/chilcano-doncella.jpg"],
       ["Pango de Sábalo", 70, "Maduro sancochado, salsa de cocona", "images/sopas/pango-sabalo.jpg"],
       ["Pango de Boquichico", 40, "Maduro sancochado, salsa de cocona", "images/sopas/pango-boquichico.jpg"],
       ["Pango de Paiche", 40, "Maduro sancochado, salsa de cocona", "images/sopas/pango-paiche.jpg"]
